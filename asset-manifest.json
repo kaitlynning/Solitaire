@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Solitaire/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Solitaire/static/js/main.d4f40b86.chunk.js",
+    "main.js.map": "/Solitaire/static/js/main.d4f40b86.chunk.js.map",
+    "runtime-main.js": "/Solitaire/static/js/runtime-main.480e7b3f.js",
+    "runtime-main.js.map": "/Solitaire/static/js/runtime-main.480e7b3f.js.map",
+    "static/js/2.cd48967a.chunk.js": "/Solitaire/static/js/2.cd48967a.chunk.js",
+    "static/js/2.cd48967a.chunk.js.map": "/Solitaire/static/js/2.cd48967a.chunk.js.map",
+    "index.html": "/Solitaire/index.html",
+    "precache-manifest.8a8c4a0da7456b15c36d0f1c73d9204d.js": "/Solitaire/precache-manifest.8a8c4a0da7456b15c36d0f1c73d9204d.js",
+    "service-worker.js": "/Solitaire/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Solitaire/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cd48967a.chunk.js.LICENSE.txt": "/Solitaire/static/js/2.cd48967a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Solitaire/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.480e7b3f.js",
+    "static/js/2.cd48967a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d4f40b86.chunk.js"
+  ]
+}
